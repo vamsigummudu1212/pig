@@ -1,0 +1,92 @@
+.face{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(240, 107, 107);
+    border-radius: 50%;
+    margin-top: 10%;
+    margin-left: 30%;
+    position: relative;
+}
+.leye{
+    height: 50px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(10, 10, 10);
+    position:absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.reye{
+    height: 50px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(10, 10, 10);
+    position:absolute;
+    margin-bottom: 200px;
+    margin-left: 110px;
+}
+.rpupil{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(241, 235, 235);
+    position:absolute;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.lpupil{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(241, 235, 235);
+    position:absolute;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.nose{
+    height: 50px;
+    width: 100px;
+    border-radius: 35%;
+    background-color: rgb(86, 76, 134);
+    position:absolute;
+    margin-left:80px;
+    margin-top: 130px;
+  
+}
+.lnose{
+    height: 40px;
+    width: 10px;
+    border-radius: 150%;
+    background-color: rgb(182, 96, 27);
+    position:absolute;
+    margin-left: 70px;
+    margin-top: 3px;
+  
+}
+
+.rnose{
+    height: 40px;
+    width: 10px;
+    border-radius: 150%;
+    background-color: rgb(182,96,27);
+    position:absolute;
+    margin-left:25px;
+    margin-top: 5px;
+  
+}
+.mouth{
+    height: 50px;
+    width: 100px;
+    
+    background-color:transparent;
+    border-radius: 70%;
+    border: 1px solid transparent;
+    border-bottom: 2px solid #41220c;
+    top:-12px;
+    left:calc(505-60px);
+    transition: 0.5s;
+    position:absolute;
+    margin-left:80px;
+    margin-top: 170px;
+
+}
